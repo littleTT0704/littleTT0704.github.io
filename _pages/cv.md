@@ -27,6 +27,11 @@ Download my most recent CV [here](/files/resume.pdf) (updated: Dec. 2024).
 
 # Work Experience
 
+## [NVIDIA](https://www.nvidia.com/)
+
+### Applied LLM Engineer &#124; 2025/02 - Present
+* Working on an agentic framework.
+
 ## [Canfield Scientific](https://www.canfieldsci.com/)
 
 ### Software Development Intern &#124; 2024/05 - 2024/08
