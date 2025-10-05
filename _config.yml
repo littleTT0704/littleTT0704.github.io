@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Jiatai Li"
-  pronouns         : # "he/him"  
-  bio              : "BSAI & MSML @ CMU"
-  location         : "Pittsburgh, PA, USA"
-  employer         : "Carnegie Mellon University"
+  pronouns         : "he/him"  
+  bio              : "MLE @ NVIDIA | BSAI & MSML @ CMU"
+  location         : "San Jose, CA, USA"
+  employer         : "NVIDIA"
   uri              : # URL
-  email            : "jiatail@andrew.cmu.edu" 
+  email            : "lijiatai0704@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=KHDTxkkAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dfseb2EAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL

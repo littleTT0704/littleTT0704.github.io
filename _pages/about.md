@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Jiatai Li, a Machine Learning Engineer working at **NVIDIA** in San Jose, CA. 
+Hi! I’m Jiatai Li, a Machine Learning Engineer working at **NVIDIA** in the Bay Area.  
 I previously studied at **Carnegie Mellon University**, where I earned a Master's degree in **Machine Learning** and a Bachelor’s degree in **Artificial Intelligence** and **Psychology**.
 
 My [work experience](/cv/#work-experience) was mostly on software development, with a focus on creating projects that directly engage customers and users.
