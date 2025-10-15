@@ -7,7 +7,7 @@ excerpt: 'VesselMapper is a noise-robust algorithm for 3D image vessel segmentat
 date: 2023-06-24
 venue: 'The Organization for Human Brain Mapping Annual Meeting'
 paperurl: 'https://www.vialab.org/main/Publications/pdf/Li_HBM_2023.pdf'
-citation: 'Li, J., Stetten, G. D., Schweitzer, N., Ibrahim, T. S., Iordanova, B., Aizenstein, H. J., Wu, M. (2023, June 23-24). <i>VesselMapper: A Robust Vessel Segmentation Algorithm for 3D Images</i> [Poster Abstract]. The Organization for Human Brain Mapping 2023 Annual Meeting, <i>virtual</i>.'
+citation: '<b>Li, J.</b>, Stetten, G. D., Schweitzer, N., Ibrahim, T. S., Iordanova, B., Aizenstein, H. J., Wu, M. (2023, June 23-24). <i>VesselMapper: A Robust Vessel Segmentation Algorithm for 3D Images</i> [Poster Abstract]. The Organization for Human Brain Mapping 2023 Annual Meeting, <i>virtual</i>.'
 ---
 
 In this paper, we propose VesselMapper, a vessel segmentation algorithm for 3D images that is robust to noise. Using VesselMapper, we segmented the brain blood vessels in TOF images, and further calculated the morphological features of the vessels. This method an be used to detect subtle morphological changes of blood vessels in the brain in developmental, aging, disease or treatment-related cerebrovascular changes.
